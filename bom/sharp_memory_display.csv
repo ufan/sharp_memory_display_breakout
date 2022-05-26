@@ -1,0 +1,6 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J2";"Hirose_FH12-10S-0.5SH_1x10-1MP_P0.50mm_Horizontal";1;"Conn_01x10";10针，0.5mm 间距;;
+2;"C1";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";1;"560pF/680pF";;;
+3;"C2,C3";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";2;"1uF";;;
+4;"FB1,FB2";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";2;"Ferrite_Bead_Small";贴片磁珠;;
+5;"R1,R2,R3";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";3;"10k";;;
