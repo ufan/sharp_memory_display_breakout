@@ -1,4 +1,4 @@
-20112700833850803
+20208163634900384
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85602,3 +85602,416 @@ varistor SIOV
 0
 2
 2
+mylib
+Battery_connector_lim
+
+
+0
+4
+2
+mylib
+Battery_connector_lim_reversible
+
+
+0
+11
+2
+mylib
+Battery_pads_reversible
+
+
+0
+2
+2
+mylib
+CAP-1203-SN-1-SOIC
+MICROCHIP 3-channel capacitive sensor
+SOIC SO
+0
+8
+8
+mylib
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+mylib
+Capacitive_Buttons_01x03
+
+
+0
+3
+3
+mylib
+Conn_EPD
+1.02 inch  e-ink display,  epaper102 compatible connector
+epd
+0
+8
+8
+mylib
+Conn_EPD_Jumper
+1.02 inch  e-ink display,  epaper102 compatible connector
+epd
+0
+56
+8
+mylib
+Conn_LCD
+1.02 inch  e-ink display,  epaper102 compatible connector
+epd
+0
+7
+7
+mylib
+Diode
+SOD-123
+SOD-123
+0
+2
+2
+mylib
+Diode_SOD-123_reversible
+SOD-123
+SOD-123
+0
+2
+2
+mylib
+Ferris_TentingHole_original
+
+
+0
+4
+1
+mylib
+Ferris_Tilting_Hole
+four holes in a circle compatible with ferris pcb
+
+0
+4
+0
+mylib
+GND_1pin_conn
+
+GND connector
+0
+1
+1
+mylib
+JST_ACH_BM02B-ACHSS-GAN-ETF_1x02-1MP_P1.20mm_Vertical
+JST ACH series connector, BM02B-ACHSS-GAN-ETF (http://www.jst-mfg.com/product/pdf/eng/eACH.pdf), generated with kicad-footprint-generator
+connector JST ACH vertical
+0
+4
+3
+mylib
+Kailh_Choc
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
+kailh,choc
+0
+2
+2
+mylib
+Kailh_Choc_Edge
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
+kailh,choc
+0
+0
+0
+mylib
+Kailh_Choc_Hotplug
+
+
+0
+2
+2
+mylib
+Kailh_Choc_Hotplug_reversible
+
+
+0
+4
+2
+mylib
+Kailh_Choc_Hotplug_standalone
+
+
+0
+6
+2
+mylib
+Kailh_Choc_reversible
+Kailh "Choc" PG1350 keyswitch
+kailh,choc
+0
+3
+2
+mylib
+Kailh_Choc_standalone
+
+
+0
+6
+2
+mylib
+Molex_CLIK-Mate_502382-0270_1x02-1MP_P1.25mm_Vertical
+Molex CLIK-Mate series connector, 502382-0270 (http://www.molex.com/pdm_docs/sd/5023820270_sd.pdf), generated with kicad-footprint-generator
+connector Molex CLIK-Mate side entry
+0
+4
+3
+mylib
+Molex_Panelmate_53780-0270_1x02-1MP_P1.25mm_Horizontal
+Molex Panelmate series connector, 53780-0270 (), generated with kicad-footprint-generator
+connector Molex Panelmate top entry
+0
+4
+3
+mylib
+MountingHole_2.2mm_M2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+mylib
+MountingHole_3.2mm_M3_DIN965
+Mounting Hole 3.2mm, no annular, M3, DIN965
+mounting hole 3.2mm no annular m3 din965
+0
+0
+0
+mylib
+PAW3395
+https://www.pixart.com/products-detail/129/PAW3395DM-T6QU
+optical mouse sensor
+0
+16
+16
+mylib
+PMW3360
+
+
+0
+16
+16
+mylib
+PMW3610
+https://www.pixart.com/products-detail/21/PMW3610DM-SUDU
+
+0
+16
+16
+mylib
+Power
+
+
+0
+7
+4
+mylib
+Power_reversible
+
+
+0
+14
+3
+mylib
+ProMacroLite
+Pro Micro footprint
+standard ProMicro
+0
+31
+31
+mylib
+ProMacroLite_BackMount
+Pro Micro footprint
+standard ProMicro
+0
+31
+31
+mylib
+ProMacroLite_BackMount_Partial
+Pro Micro footprint
+standard ProMicro
+0
+29
+29
+mylib
+ProMacroLite_Partial
+Pro Micro footprint
+standard ProMicro
+0
+29
+29
+mylib
+ProMicro
+Pro Micro footprint
+standard ProMicro
+0
+24
+24
+mylib
+ProMicro_BackMount
+Pro Micro footprint
+standard ProMicro
+0
+24
+24
+mylib
+ProMicro_Jumpers
+Pro Micro footprint
+promicro ProMicro
+0
+168
+24
+mylib
+ProMicro_Jumpers_MoutingHole
+Pro Micro footprint reversible with jumpers and with three mouting holes
+promicro ProMicro
+0
+168
+24
+mylib
+ProMicro_minimal
+sigle side pro micro with solder pad on back
+pro micro
+0
+24
+24
+mylib
+RollerEncoder_EVQWGD001_reversible
+
+
+0
+8
+5
+mylib
+RollerEncoder_Panasonic_EVQWGD001
+
+
+0
+6
+6
+mylib
+SW_B3U-1000P
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
+Tactile Switch
+0
+2
+2
+mylib
+SW_B3U-1000P_reversible
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
+Tactile Switch
+0
+2
+2
+mylib
+SW_BSI10
+
+
+0
+3
+3
+mylib
+SW_Reset_vertical
+
+
+0
+6
+2
+mylib
+TRRS-PJ-320A
+
+
+0
+4
+4
+mylib
+TouchSlider-3_30x12mm
+
+
+0
+18
+3
+mylib
+TouchSlider-3_36x10mm
+
+
+0
+18
+3
+mylib
+TouchSlider-5_40x12mm
+
+
+0
+34
+5
+mylib
+VBus_pad_reversible
+
+
+0
+2
+2
+mylib
+WirelessChager_pads_reversible
+
+
+0
+2
+2
+mylib
+XW06A
+Capacative touch sensor
+capacitive touch sensor
+0
+16
+16
+mylib
+fpc_pad_1x06_p1.0
+soldering pad for fpc cable
+
+0
+6
+6
+mylib
+fpc_pad_1x07_p1.0
+soldering pad for fpc cable
+
+0
+7
+7
+mylib
+fpc_pad_1x08_p1.0
+soldering pad for fpc cable
+
+0
+8
+8
+mylib
+gateron-ks27-reversible
+
+
+0
+4
+2
+mylib
+gateron-ks27-reversible-hotplug
+
+
+0
+4
+2
+mylib
+pogopin_1x4
+
+
+0
+4
+4
